@@ -34,5 +34,10 @@ export default defineConfig({
       lang: 'ru-RU',
       link: 'https://pinia-ru.netlify.app',
     },
+    ja: {
+      label: '日本語',
+      lang: 'ja-JP',
+      link: 'https://pinia-ua.netlify.app', // TODO: 仮
+    },
   },
 })
